@@ -1,5 +1,7 @@
 package com.demo.course.service.impl;
 
-public class CourseServiceImpl {
+import com.demo.course.service.CourseService;
+
+public class CourseServiceImpl implements CourseService {
 
 }
